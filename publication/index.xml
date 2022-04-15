@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | My Website</title>
+    <title>Publications | Ibrahim Said Ahmad</title>
     <link>https://isahmadbbr.github.io/publication/</link>
       <atom:link href="https://isahmadbbr.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>NaijaSenti: A Nigerian Twitter Sentiment Corpus for Multilingual Sentiment Analysis</title>
-      <link>https://isahmadbbr.github.io/publication/example/</link>
+      <title>Hausa Visual Genome: A Dataset for Multi-Modal English to Hausa Machine Translation</title>
+      <link>https://isahmadbbr.github.io/publication/visual-genome/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://isahmadbbr.github.io/publication/example/</guid>
+      <guid>https://isahmadbbr.github.io/publication/visual-genome/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -29,6 +29,22 @@
 &lt;/div&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>NaijaSenti: A Nigerian Twitter Sentiment Corpus for Multilingual Sentiment Analysis</title>
+      <link>https://isahmadbbr.github.io/publication/naijasenti/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://isahmadbbr.github.io/publication/naijasenti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Movie Revenue Prediction Based on Purchase Intention Mining Using YouTube Trailer Reviews</title>
+      <link>https://isahmadbbr.github.io/publication/movie-revenue/</link>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://isahmadbbr.github.io/publication/movie-revenue/</guid>
+      <description></description>
     </item>
     
   </channel>
