@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Ibrahim Said Ahmad, PhD
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ibrahim Said
+last_name: Ahmad
 
 # Status emoji
 status:
@@ -17,34 +17,39 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Northeastern University
+    url: https://www.northeastern.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am currently a postdoctoral fellow at the Institute for Experiential AI, Northeastern University. I completed my Ph.D from Universiti Kebangsaan Malaysia, Malaysia in 2020.
+
+My research interests lie in the areas of Data Science which includes areas of Natural Language Processing, Machine Learning, and Deep Learning.
+
+I am a co-founder of the HausaNLP (www.hausanlp.org) research group, where I focus on research related to NLP in African (low resource) languages. I am a beneficiaries of over 10 research grants across diverse areas of NLP in low resource languages. 
+
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Natural Langauge Processing
+  - Low-resource langauges
+  - Data Science
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Science
+      institution: Northeastern University
+      year: 2020
+    - course: MS in Information Technology
+      institution: The University of Nottingham
+      year: 2015
+    - course: BS in Computer Science
+      institution: Bayero University Kano
+      year: 2011
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -117,8 +122,12 @@ social:
     link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a postdoctoral fellow at the Institute for Experiential AI, Northeastern University. I completed my Ph.D from Universiti Kebangsaan Malaysia, Malaysia in 2020.
+
+My research interests lie in the areas of Data Science which includes areas of Natural Language Processing, Machine Learning, and Deep Learning.
+
+I am a co-founder of the HausaNLP (www.hausanlp.org) research group, where I focus on research related to NLP in African (low resource) languages. I am a beneficiaries of over 10 research grants across diverse areas of NLP in low resource languages.
 {style="text-align: justify;"}
