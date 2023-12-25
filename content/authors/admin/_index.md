@@ -38,13 +38,13 @@ interests:
 education:
   courses:
     - course: PhD in Computer Science
-      institution: Northeastern University
+      institution: Universiti Kebangsaan Malaysia 
       year: 2020
     - course: MS in Information Technology
-      institution: The University of Nottingham
+      institution: The University of Nottingham 
       year: 2015
     - course: BS in Computer Science
-      institution: Bayero University Kano
+      institution: Bayero University Kano 
       year: 2011
 
 # # Skills
