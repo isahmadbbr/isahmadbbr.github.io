@@ -25,11 +25,7 @@ organizations:
     url: https://www.northeastern.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently a postdoctoral fellow at the Institute for Experiential AI, Northeastern University. I completed my Ph.D from Universiti Kebangsaan Malaysia, Malaysia in 2020.
-
-My research interests lie in the areas of Data Science which includes areas of Natural Language Processing, Machine Learning, and Deep Learning.
-
-I am a co-founder of the HausaNLP (www.hausanlp.org) research group, where I focus on research related to NLP in African (low resource) languages. I am a beneficiaries of over 10 research grants across diverse areas of NLP in low resource languages. 
+bio: I am currently a postdoctoral fellow at the Institute for Experiential AI, Northeastern University. I completed my Ph.D from Universiti Kebangsaan Malaysia, Malaysia in 2020. My research interests lie in the areas of Data Science which includes areas of Natural Language Processing, Machine Learning, and Deep Learning. I am a co-founder of the HausaNLP (www.hausanlp.org) research group, where I focus on research related to NLP in African (low resource) languages. I am a beneficiaries of over 10 research grants across diverse areas of NLP in low resource languages. 
 
 
 # Interests to show in About widget
