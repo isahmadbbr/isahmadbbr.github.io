@@ -67,7 +67,7 @@ sections:
           company_url: ''
           company_logo: ''
           location: Portland, ME
-          date_start: ''
+          date_start: '2015-12-31'
           date_end: ''
           description: Research on Natural Langauge Processing
         - title: Lecturer
