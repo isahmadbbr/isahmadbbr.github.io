@@ -73,7 +73,7 @@ skills:
     items:
       - name: Soccer
         description: ''
-        percent: 100
+        percent: 50
         icon: futbol
         icon_pack: fas
       - name: Traveling
