@@ -75,11 +75,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-two-semeval-2025-shared-tasks-were-accepted-the-first-one-is-on-the-semeval-2025-task-3-mu-shroom-and-the-second-one-is-on-semeval-2025-task-2-entity-aware-fine-tuning",
-          title: 'Two SemEval 2025 shared tasks were accepted. The first one is on the...',
-          description: "",
-          section: "News",},{id: "news-our-paper-was-selected-as-best-paper-in-acii-2025",
+            },},{id: "news-our-paper-was-selected-as-best-paper-in-acii-2025",
           title: 'Our paper was selected as best paper in ACII 2025.',
+          description: "",
+          section: "News",},{id: "news-two-semeval-2025-shared-tasks-were-accepted-the-first-one-is-on-the-semeval-2025-task-3-mu-shroom-and-the-second-one-is-on-semeval-2025-task-2-entity-aware-fine-tuning",
+          title: 'Two SemEval 2025 shared tasks were accepted. The first one is on the...',
           description: "",
           section: "News",},{
         id: 'social-email',
