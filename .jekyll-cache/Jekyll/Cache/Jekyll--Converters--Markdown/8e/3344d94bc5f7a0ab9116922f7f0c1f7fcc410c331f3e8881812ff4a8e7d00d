@@ -1,0 +1,2162 @@
+I"�<!-- _pages/publications.md -->
+
+<!-- Bibsearch Feature -->
+
+<script src="/al-folio/assets/js/bibsearch.js?1bc438ca9037884cc579601c09afd847" type="module"></script>
+
+<p><input type="text" id="bibsearch" spellcheck="false" autocomplete="off" class="search bibsearch-form-input" placeholder="Type to filter" /></p>
+
+<div class="publications">
+
+<h2 class="bibliography">2025</h2>
+<ol class="bibliography"><li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="ahmad2025exploringculturalnuancesemotion" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">Exploring Cultural Nuances in Emotion Perception Across 15 African Languages</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      Ibrahim Said
+            Ahmad, Shiran
+            Dudy, Tadesse Destaw
+            Belay, and
+        <span class="more-authors" title="click to view 4 more authors" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '4 more authors' ? 'Idris Abdulmumin, Seid Muhie Yimam, Shamsuddeen Hassan Muhammad, Kenneth Church' : '4 more authors';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">4 more authors</span>
+      
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      2025
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</li></ol>
+<h2 class="bibliography">2024</h2>
+<ol class="bibliography"><li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="mohamed-etal-2024-culture" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">No Culture Left Behind: ArtELingo-28, a Benchmark of WikiArt with Captions in 28 Languages</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      Youssef
+            Mohamed, Runjia
+            Li, Ibrahim Said
+            Ahmad, and
+        <span class="more-authors" title="click to view 4 more authors" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '4 more authors' ? 'Kilichbek Haydarov, Philip Torr, Kenneth Church, Mohamed Elhoseiny' : '4 more authors';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">4 more authors</span>
+      
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing</em>,  Nov 2024
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+        <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+      
+      
+        <a href="https://doi.org/10.18653/v1/2024.emnlp-main.1165" class="btn btn-sm z-depth-0" role="button">DOI</a>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+
+    
+      <!-- Hidden abstract block -->
+      <div class="abstract hidden">
+        <p>Research in vision and language has made considerable progress thanks to benchmarks such as COCO. COCO captions focused on unambiguous facts in English; ArtEmis introduced subjective emotions and ArtELingo introduced some multilinguality (Chinese and Arabic). However we believe there should be more multilinguality. Hence, we present ArtELingo-28, a vision-language benchmark that spans 28 languages and encompasses approximately 200,000 annotations (140 annotations per image). Traditionally, vision research focused on unambiguous class labels, whereas ArtELingo-28 emphasizes diversity of opinions over languages and cultures. The challenge is to build machine learning systems that assign emotional captions to images. Baseline results will be presented for three novel conditions: Zero-Shot, Few-Shot and One-vs-All Zero-Shot. We find that cross-lingual transfer is more successful for culturally-related languages. Data and code will be made publicly available.</p>
+      </div>
+    
+
+    
+
+    
+  </div>
+</div>
+</li></ol>
+<h2 class="bibliography">2023</h2>
+<ol class="bibliography"><li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="muhammad-etal-2023-afrisenti" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">AfriSenti: A Twitter Sentiment Analysis Benchmark for African Languages</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      Shamsuddeen
+            Muhammad, Idris
+            Abdulmumin, Abinew
+            Ayele, and
+        <span class="more-authors" title="click to view 24 more authors" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '24 more authors' ? 'Nedjma Ousidhoum, David Adelani, Seid Yimam, Ibrahim Ahmad, Meriem Beloucif, Saif Mohammad, Sebastian Ruder, Oumaima Hourrane, Alipio Jorge, Pavel Brazdil, Felermino Ali, Davis David, Salomey Osei, Bello Shehu-Bello, Falalu Lawan, Tajuddeen Gwadabe, Samuel Rutunda, Tadesse Belay, Wendimu Messelle, Hailu Balcha, Sisay Chala, Hagos Gebremichael, Bernard Opoku, Stephen Arthur' : '24 more authors';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">24 more authors</span>
+      
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing</em>,  Dec 2023
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+        <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+      
+      
+        <a href="https://doi.org/10.18653/v1/2023.emnlp-main.862" class="btn btn-sm z-depth-0" role="button">DOI</a>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+
+    
+      <!-- Hidden abstract block -->
+      <div class="abstract hidden">
+        <p>Africa is home to over 2,000 languages from over six language families and has the highest linguistic diversity among all continents. This includes 75 languages with at least one million speakers each. Yet, there is little NLP research conducted on African languages. Crucial in enabling such research is the availability of high-quality annotated datasets. In this paper, we introduce AfriSenti, a sentiment analysis benchmark that contains a total of \textgreater110,000 tweets in 14 African languages (Amharic, Algerian Arabic, Hausa, Igbo, Kinyarwanda, Moroccan Arabic, Mozambican Portuguese, Nigerian Pidgin, Oromo, Swahili, Tigrinya, Twi, Xitsonga, and Yoruba) from four language families. The tweets were annotated by native speakers and used in the AfriSenti-SemEval shared task (with over 200 participants, see website: https://afrisenti-semeval.github.io). We describe the data collection methodology, annotation process, and the challenges we dealt with when curating each dataset. We further report baseline experiments conducted on the AfriSenti datasets and discuss their usefulness.</p>
+      </div>
+    
+
+    
+
+    
+  </div>
+</div>
+</li>
+<li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="muhammad-etal-2023-semeval" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">SemEval-2023 Task 12: Sentiment Analysis for African Languages (AfriSenti-SemEval)</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      Shamsuddeen Hassan
+            Muhammad, Idris
+            Abdulmumin, Seid Muhie
+            Yimam, and
+        <span class="more-authors" title="click to view 7 more authors" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '7 more authors' ? 'David Ifeoluwa Adelani, Ibrahim Said Ahmad, Nedjma Ousidhoum, Abinew Ali Ayele, Saif Mohammad, Meriem Beloucif, Sebastian Ruder' : '7 more authors';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">7 more authors</span>
+      
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>In Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval-2023)</em>,  Jul 2023
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+        <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+      
+      
+        <a href="https://doi.org/10.18653/v1/2023.semeval-1.315" class="btn btn-sm z-depth-0" role="button">DOI</a>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+
+    
+      <!-- Hidden abstract block -->
+      <div class="abstract hidden">
+        <p>We present the first Africentric SemEval Shared task, Sentiment Analysis for African Languages (AfriSenti-SemEval) - The dataset is available at \urlhttps://github.com/afrisenti-semeval/afrisent-semeval-2023. AfriSenti-SemEval is a sentiment classification challenge in 14 African languages: Amharic, Algerian Arabic, Hausa, Igbo, Kinyarwanda, Moroccan Arabic, Mozambican Portuguese, Nigerian Pidgin, Oromo, Swahili, Tigrinya, Twi, Xitsonga, and Yorb (Muhammad et al., 2023), using data labeled with 3 sentiment classes. We present three subtasks: (1) Task A: monolingual classification, which received 44 submissions; (2) Task B: multilingual classification, which received 32 submissions; and (3) Task C: zero-shot classification, which received 34 submissions. The best performance for tasks A and B was achieved by NLNDE team with 71.31 and 75.06 weighted F1, respectively. UCAS-IIE-NLP achieved the best average score for task C with 58.15 weighted F1. We describe the various approaches adopted by the top 10 systems and their approaches.</p>
+      </div>
+    
+
+    
+
+    
+  </div>
+</div>
+</li>
+<li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="aliyu-etal-2023-hausanlp" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">HausaNLP at SemEval-2023 Task 10: Transfer Learning, Synthetic Data and Side-information for Multi-level Sexism Classification</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      Saminu Mohammad
+            Aliyu, Idris
+            Abdulmumin, Shamsuddeen Hassan
+            Muhammad, and
+        <span class="more-authors" title="click to view 4 more authors" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '4 more authors' ? 'Ibrahim Said Ahmad, Saheed Abdullahi Salahudeen, Aliyu Yusuf, Falalu Ibrahim Lawan' : '4 more authors';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">4 more authors</span>
+      
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>In Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval-2023)</em>,  Jul 2023
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+        <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+      
+      
+        <a href="https://doi.org/10.18653/v1/2023.semeval-1.273" class="btn btn-sm z-depth-0" role="button">DOI</a>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+
+    
+      <!-- Hidden abstract block -->
+      <div class="abstract hidden">
+        <p>We present the findings of our participation in the SemEval-2023 Task 10: Explainable Detection of Online Sexism (EDOS) task, a shared task on offensive language (sexism) detection on English Gab and Reddit dataset. We investigated the effects of transferring two language models: XLM-T (sentiment classification) and HateBERT (same domain - Reddit) for multilevel classification into Sexist or not Sexist, and other subsequent sub-classifications of the sexist data. We also use synthetic classification of unlabelled dataset and intermediary class information to maximize the performance of our models. We submitted a system in Task A, and it ranked 49th with F1-score of 0.82. This result showed to be competitive as it only under-performed the best system by 0.052%F1-score.</p>
+      </div>
+    
+
+    
+
+    
+  </div>
+</div>
+</li>
+<li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="ogundepo-etal-2023-cross" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">Cross-lingual Open-Retrieval Question Answering for African Languages</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      Odunayo
+            Ogundepo, Tajuddeen
+            Gwadabe, Clara
+            Rivera, and
+        <span class="more-authors" title="click to view 41 more authors" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '41 more authors' ? 'Jonathan Clark, Sebastian Ruder, David Adelani, Bonaventure Dossou, Abdou Diop, Claytone Sikasote, Gilles Hacheme, Happy Buzaaba, Ignatius Ezeani, Rooweither Mabuya, Salomey Osei, Chris Emezue, Albert Kahira, Shamsuddeen Muhammad, Akintunde Oladipo, Abraham Owodunni, Atnafu Tonja, Iyanuoluwa Shode, Akari Asai, Anuoluwapo Aremu, Ayodele Awokoya, Bernard Opoku, Chiamaka Chukwuneke, Christine Mwase, Clemencia Siro, Stephen Arthur, Tunde Ajayi, Verrah Otiende, Andre Rubungo, Boyd Sinkala, Daniel Ajisafe, Emeka Onwuegbuzia, Falalu Lawan, Ibrahim Ahmad, Jesujoba Alabi, Chinedu Mbonu, Mofetoluwa Adeyemi, Mofya Phiri, Orevaoghene Ahia, Ruqayya Iro, Sonia Adhiambo' : '41 more authors';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">41 more authors</span>
+      
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>In Findings of the Association for Computational Linguistics: EMNLP 2023</em>,  Dec 2023
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+        <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+      
+      
+        <a href="https://doi.org/10.18653/v1/2023.findings-emnlp.997" class="btn btn-sm z-depth-0" role="button">DOI</a>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+
+    
+      <!-- Hidden abstract block -->
+      <div class="abstract hidden">
+        <p>African languages have far less in-language content available digitally, making it challenging for question answering systems to satisfy the information needs of users. Cross-lingual open-retrieval question answering (XOR QA) systems – those that retrieve answer content from other languages while serving people in their native language—offer a means of filling this gap. To this end, we create Our Dataset, the first cross-lingual QA dataset with a focus on African languages. Our Dataset includes 12,000+ XOR QA examples across 10 African languages. While previous datasets have focused primarily on languages where cross-lingual QA augments coverage from the target language, Our Dataset focuses on languages where cross-lingual answer content is the only high-coverage source of answer content. Because of this, we argue that African languages are one of the most important and realistic use cases for XOR QA. Our experiments demonstrate the poor performance of automatic translation and multilingual retrieval methods. Overall, Our Dataset proves challenging for state-of-the-art QA models. We hope that the dataset enables the development of more equitable QA technology.</p>
+      </div>
+    
+
+    
+
+    
+  </div>
+</div>
+</li>
+<li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="parida-etal-2023-havqa" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">HaVQA: A Dataset for Visual Question Answering and Multimodal Research in Hausa Language</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      Shantipriya
+            Parida, Idris
+            Abdulmumin, Shamsuddeen Hassan
+            Muhammad, and
+        <span class="more-authors" title="click to view 7 more authors" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '7 more authors' ? 'Aneesh Bose, Guneet Singh Kohli, Ibrahim Said Ahmad, Ketan Kotwal, Sayan Deb Sarkar, Ondřej Bojar, Habeebah Kakudi' : '7 more authors';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">7 more authors</span>
+      
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>In Findings of the Association for Computational Linguistics: ACL 2023</em>,  Jul 2023
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+        <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+      
+      
+        <a href="https://doi.org/10.18653/v1/2023.findings-acl.646" class="btn btn-sm z-depth-0" role="button">DOI</a>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+
+    
+      <!-- Hidden abstract block -->
+      <div class="abstract hidden">
+        <p>This paper presents “HaVQA”, the first multimodal dataset for visual question answering (VQA) tasks in the Hausa language. The dataset was created by manually translating 6,022 English question-answer pairs, which are associated with 1,555 unique images from the Visual Genome dataset. As a result, the dataset provides 12,044 gold standard English-Hausa parallel sentences that were translated in a fashion that guarantees their semantic match with the corresponding visual information. We conducted several baseline experiments on the dataset, including visual question answering, visual question elicitation, text-only and multimodal machine translation.</p>
+      </div>
+    
+
+    
+
+    
+  </div>
+</div>
+</li></ol>
+<h2 class="bibliography">2022</h2>
+<ol class="bibliography"><li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="muhammad-etal-2022-naijasenti" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">NaijaSenti: A Nigerian Twitter Sentiment Corpus for Multilingual Sentiment Analysis</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      Shamsuddeen Hassan
+            Muhammad, David Ifeoluwa
+            Adelani, Sebastian
+            Ruder, and
+        <span class="more-authors" title="click to view 9 more authors" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '9 more authors' ? 'Ibrahim Sa’id Ahmad, Idris Abdulmumin, Bello Shehu Bello, Monojit Choudhury, Chris Chinenye Emezue, Saheed Salahudeen Abdullahi, Anuoluwapo Aremu, Alı́pio Jorge, Pavel Brazdil' : '9 more authors';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">9 more authors</span>
+      
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>In Proceedings of the Thirteenth Language Resources and Evaluation Conference</em>,  Jun 2022
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+        <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+
+    
+      <!-- Hidden abstract block -->
+      <div class="abstract hidden">
+        <p>Sentiment analysis is one of the most widely studied applications in NLP, but most work focuses on languages with large amounts of data. We introduce the first large-scale human-annotated Twitter sentiment dataset for the four most widely spoken languages in Nigeria—Hausa, Igbo, Nigerian-Pidgin, and Yorùbá—consisting of around 30,000 annotated tweets per language, including a significant fraction of code-mixed tweets. We propose text collection, filtering, processing and labeling methods that enable us to create datasets for these low-resource languages. We evaluate a range of pre-trained models and transfer strategies on the dataset. We find that language-specific models and language-adaptive fine-tuning generally perform best. We release the datasets, trained models, sentiment lexicons, and code to incentivize research on sentiment analysis in under-represented languages.</p>
+      </div>
+    
+
+    
+
+    
+  </div>
+</div>
+</li>
+<li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="abdulmumin-etal-2022-hausa" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">Hausa Visual Genome: A Dataset for Multi-Modal English to Hausa Machine Translation</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      Idris
+            Abdulmumin, Satya Ranjan
+            Dash, Musa Abdullahi
+            Dawud, and
+        <span class="more-authors" title="click to view 7 more authors" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '7 more authors' ? 'Shantipriya Parida, Shamsuddeen Muhammad, Ibrahim Sa’id Ahmad, Subhadarshi Panda, Ondřej Bojar, Bashir Shehu Galadanci, Bello Shehu Bello' : '7 more authors';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">7 more authors</span>
+      
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>In Proceedings of the Thirteenth Language Resources and Evaluation Conference</em>,  Jun 2022
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+        <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+
+    
+      <!-- Hidden abstract block -->
+      <div class="abstract hidden">
+        <p>Multi-modal Machine Translation (MMT) enables the use of visual information to enhance the quality of translations, especially where the full context is not available to enable the unambiguous translation in standard machine translation. Despite the increasing popularity of such technique, it lacks sufficient and qualitative datasets to maximize the full extent of its potential. Hausa, a Chadic language, is a member of the Afro-Asiatic language family. It is estimated that about 100 to 150 million people speak the language, with more than 80 million indigenous speakers. This is more than any of the other Chadic languages. Despite the large number of speakers, the Hausa language is considered as a low resource language in natural language processing (NLP). This is due to the absence of enough resources to implement most of the tasks in NLP. While some datasets exist, they are either scarce, machine-generated or in the religious domain. Therefore, there is the need to create training and evaluation data for implementing machine learning tasks and bridging the research gap in the language. This work presents the Hausa Visual Genome (HaVG), a dataset that contains the description of an image or a section within the image in Hausa and its equivalent in English. The dataset was prepared by automatically translating the English description of the images in the Hindi Visual Genome (HVG). The synthetic Hausa data was then carefully postedited, taking into cognizance the respective images. The data is made of 32,923 images and their descriptions that are divided into training, development, test, and challenge test set. The Hausa Visual Genome is the first dataset of its kind and can be used for Hausa-English machine translation, multi-modal research, image description, among various other natural language processing and generation tasks.</p>
+      </div>
+    
+
+    
+
+    
+  </div>
+</div>
+</li>
+<li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="latiffi2022flower" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">Flower Pollination Algorithm for Feature Selection in Tweets Sentiment Analysis</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      Muhammad Iqbal Abu
+            Latiffi, Mohd Ridzwan
+            Yaakub, and Ibrahim Said
+            Ahmad
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>International Journal of Advanced Computer Science and Applications</em>,  Jun 2022
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</li>
+<li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="aliyu2022herdphobia" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">HERDPhobia: A Dataset for Hate Speech against Fulani in Nigeria</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      Saminu Mohammad
+            Aliyu, Gregory Maksha
+            Wajiga, Muhammad
+            Murtala, and
+        <span class="more-authors" title="click to view 3 more authors" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '3 more authors' ? 'Shamsuddeen Hassan Muhammad, Idris Abdulmumin, Ibrahim Said Ahmad' : '3 more authors';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">3 more authors</span>
+      
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>arXiv preprint arXiv:2211.15262</em>,  Jun 2022
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</li></ol>
+<h2 class="bibliography">2021</h2>
+<ol class="bibliography"><li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="qazi2021role" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">The role of Information &amp; Communication Technology in Elearning environments: A systematic review</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      Atika
+            Qazi, Glenn
+            Hardaker, Ibrahim Said
+            Ahmad, and
+        <span class="more-authors" title="click to view 3 more authors" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '3 more authors' ? 'Mohammad Darwich, Jaafar Zubairu Maitama, Annie Dayani' : '3 more authors';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">3 more authors</span>
+      
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>IEEE Access</em>,  Jun 2021
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</li>
+<li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="qazi2021adaption" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">Adaption of distance learning to continue the academic year amid COVID-19 lockdown</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      Atika
+            Qazi, Javaria
+            Qazi, Khulla
+            Naseer, and
+        <span class="more-authors" title="click to view 8 more authors" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '8 more authors' ? 'Muhammad Zeeshan, Shiza Qazi, Olusola Abayomi-Alli, Ibrahim Said Ahmad, Mohammad Darwich, Bandeh Ali Talpur, Glenn Hardaker,  others' : '8 more authors';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">8 more authors</span>
+      
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>Children and Youth Services Review</em>,  Jun 2021
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</li>
+<li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="abdulmumin2021data" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">Data Selection as an alternative to Quality Estimation in Self-Learning for Low Resource Neural Machine Translation⋆</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      Idris
+            Abdulmumin, Bashir Shehu
+            Galadanci, Ibrahim Said
+            Ahmad, and
+        <span class="more-authors" title="click to view 1 more author" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '1 more author' ? 'Rabiu Ibrahim Abdullahi' : '1 more author';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">1 more author</span>
+      
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>In Computational Science and Its Applications – ICCSA 2021</em>,  Jun 2021
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</li></ol>
+<h2 class="bibliography">2020</h2>
+<ol class="bibliography"><li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="ahmad2020beyond" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">Beyond Sentiment Classification: A Novel Approach for Utilizing Social Media Data for Business Intelligence</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      Ibrahim Said
+            Ahmad, Azuraliza Abu
+            Bakar, Mohd Ridzwan
+            Yaakub, and
+        <span class="more-authors" title="click to view 1 more author" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '1 more author' ? 'Mohammad Darwich' : '1 more author';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">1 more author</span>
+      
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>Published in International Journal of Advanced Computer Science and Applications(IJACSA)</em>,  Jun 2020
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</li>
+<li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="ahmad2020movie" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">Movie revenue prediction based on purchase intention mining using YouTube trailer reviews</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      Ibrahim Said
+            Ahmad, Azuraliza Abu
+            Bakar, and Mohd Ridzwan
+            Yaakub
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>Information Processing &amp; Management</em>,  Jun 2020
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</li>
+<li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="ahmad2020survey" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">A survey on machine learning techniques in movie revenue prediction</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      Ibrahim Said
+            Ahmad, Azuraliza Abu
+            Bakar, Mohd Ridzwan
+            Yaakub, and
+        <span class="more-authors" title="click to view 1 more author" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '1 more author' ? 'Shamsuddeen Hassan Muhammad' : '1 more author';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">1 more author</span>
+      
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>SN Computer Science</em>,  Jun 2020
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</li>
+<li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="darwich2020quantifying" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">Quantifying the Natural Sentiment Strength of Polar Term Senses Using Semantic Gloss Information and Degree Adverbs</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      Mohammad
+            Darwich, Shahrul Azman Mohd
+            Noah, Nazlia
+            Omar, and
+        <span class="more-authors" title="click to view 2 more authors" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '2 more authors' ? 'Nurul Aida Osman, Ibrahim Said Ahmad' : '2 more authors';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">2 more authors</span>
+      
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>Journal of Advances in Information Technology Vol</em>,  Jun 2020
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</li>
+<li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="ansari2020hybrid" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">A hybrid metaheuristic method in training artificial neural network for bankruptcy prediction</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      Abdollah
+            Ansari, Ibrahim Said
+            Ahmad, Azuraliza Abu
+            Bakar, and
+        <span class="more-authors" title="click to view 1 more author" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '1 more author' ? 'Mohd Ridzwan Yaakub' : '1 more author';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">1 more author</span>
+      
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>IEEE access</em>,  Jun 2020
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</li>
+<li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="ahmad2020sequel" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">Sequel movie revenue prediction model based on sentiment analysis</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      Ibrahim Said
+            Ahmad, Azuraliza
+            Abu Bakar, Mohd Ridzwan
+            Yaakub, and
+        <span class="more-authors" title="click to view 1 more author" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '1 more author' ? 'Mohammad Darwich' : '1 more author';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">1 more author</span>
+      
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>Data Technologies and Applications</em>,  Jun 2020
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</li></ol>
+<h2 class="bibliography">2019</h2>
+<ol class="bibliography"><li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="ahmad2019review" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">A Review of Feature Selection in Sentiment Analysis Using Information Gain and Domain Specific Ontology</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      Ibrahim Said
+            Ahmad, Azuraliza Abu
+            Bakar, and Mohd Ridzwan
+            Yaakub
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>International Journal of Advanced Computer Research</em>,  Jun 2019
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</li>
+<li><div class="row">
+  
+    <div class="col col-sm-2 abbr">
+      
+    </div>
+  
+
+  <!-- Entry bib key -->
+  <div id="darwich2019current" class="col-sm-8">
+    <!-- Title -->
+    <div class="title">Current Trends and Research Directions in the Dictionary-Based Approach for Sentiment Lexicon Generation: A Survey</div>
+    <!-- Author -->
+    <div class="author">
+      
+
+      
+      Mohammad
+            Darwich, Shahrul Azman Mohd
+            Noah, Nazlia
+            Omar, and
+        <span class="more-authors" title="click to view 2 more authors" onclick="
+              var element = $(this);
+              element.attr('title', '');
+              var more_authors_text = element.text() == '2 more authors' ? 'Nurul Aida Osman, Ibrahim Said Ahmad' : '2 more authors';
+              var cursorPosition = 0;
+              var textAdder = setInterval(function(){
+                element.html(more_authors_text.substring(0, cursorPosition + 1));
+                if (++cursorPosition == more_authors_text.length){
+                  clearInterval(textAdder);
+                }
+            }, '10');
+          ">2 more authors</span>
+      
+      
+    </div>
+
+    <!-- Journal/Book title and date -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="periodical">
+      <em>Journal of Theoretical and Applied Information Technology</em>,  Jun 2019
+    </div>
+    <div class="periodical">
+      
+    </div>
+
+    <!-- Links/Buttons -->
+    <div class="links">
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </div>
+    
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+      
+    
+
+    
+
+    
+
+    
+
+    
+  </div>
+</div>
+</li></ol>
+
+</div>
+
+:ET
