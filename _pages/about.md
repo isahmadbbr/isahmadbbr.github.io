@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>The Roux Institute</p>
     <p>100 Fore St</p>
-    <p>Portland, Me 04103</p>
+    <p>Portland, ME 04101</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
