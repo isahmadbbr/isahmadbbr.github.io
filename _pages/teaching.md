@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: 
 nav: true
 nav_order: 6
 ---
 
-### Bayero University Kano (2015 --- 2016, 2020 - 2023)
+### Bayero University Kano (2015 -- 2016, 2020 -- 2023)
 - Artificial Intelligence
 - Data Mining 
 - Introduction to Statistics and Probability
