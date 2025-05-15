@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Northeastern University. The Roux Institute. Bayero University Kano. MasaKhane. HausaNLP.
 
