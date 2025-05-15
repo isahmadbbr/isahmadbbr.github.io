@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-### Bayero University Kano (2015 -- 2016, 2020 -- 2023)
+### Bayero University Kano (2014 -- 2016, 2020 -- 2023)
 - Artificial Intelligence
 - Data Mining 
 - Introduction to Statistics and Probability
@@ -19,4 +19,4 @@ nav_order: 6
 - Natural Language Processing
 
 ### NeuroMatch Academy (2023)
-- Deep Learning (Teaching Assistance) 
+- Deep Learning (Teaching Assistant) 
