@@ -81,6 +81,9 @@ ninja.data = [{
           section: "News",},{id: "news-two-semeval-2025-shared-tasks-were-accepted-the-first-one-is-on-the-semeval-2025-task-3-mu-shroom-and-the-second-one-is-on-semeval-2025-task-2-entity-aware-fine-tuning",
           title: 'Two SemEval 2025 shared tasks were accepted. The first one is on the...',
           description: "",
+          section: "News",},{id: "news-brighter-won-the-best-resource-paper-award-at-acl2025-semeval-2025-task-11-won-the-semeval-best-task-award-co-located-with-acl2025",
+          title: 'BRIGHTER won the best resource paper award at ACL2025. SemEval-2025 Task 11 won...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
