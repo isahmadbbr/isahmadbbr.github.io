@@ -84,6 +84,9 @@ ninja.data = [{
           section: "News",},{id: "news-brighter-won-the-best-resource-paper-award-at-acl2025-semeval-2025-task-11-won-the-semeval-best-task-award-co-located-with-acl2025",
           title: 'BRIGHTER won the best resource paper award at ACL2025. SemEval-2025 Task 11 won...',
           description: "",
+          section: "News",},{id: "news-i-joined-the-department-of-computing-and-new-media-technologies-uw-stevens-point-as-an-assistant-professor",
+          title: 'I joined the Department of Computing and New Media Technologies, UW-Stevens Point as...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
