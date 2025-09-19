@@ -29,7 +29,7 @@ latest_posts:
 
 
 
-I am an incoming Assistant Professor in the Department of Computing and New Media Technologies at UW–Stevens Point. From 2023 to 2025, I was a Postdoctoral Research Fellow at Northeastern University’s Institute for Experiential AI, where I led research at the intersection of natural language processing (NLP) and computational social science. My work focused on addressing linguistic and cultural disparities in AI systems, particularly for low-resource languages. 
+I am an Assistant Professor in the Department of Computing and New Media Technologies at UW–Stevens Point. From 2023 to 2025, I was a Postdoctoral Research Fellow at Northeastern University’s Institute for Experiential AI, where I led research at the intersection of natural language processing (NLP) and computational social science. My work focused on addressing linguistic and cultural disparities in AI systems, particularly for low-resource languages. 
 
 
 During my postdoc, I developed foundational resources, including [AfriHate](https://github.com/AfriHate/AfriHate) and [ArtElingo-28](https://www.artelingo.org/artelingo-28-emnlp24), and worked on the cultural alignment of large language models (LLMs). I also co-organized SemEval shared tasks.

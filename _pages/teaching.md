@@ -7,6 +7,11 @@ nav: true
 nav_order: 6
 ---
 
+### Bayero University Kano (2025 --- Date)
+- Foundations of Artificial Intelligence
+- Programming for AI and ML
+- Introduction to Computing and Programming
+
 ### Bayero University Kano (2014 -- 2016, 2020 -- 2023)
 - Artificial Intelligence
 - Data Mining 
