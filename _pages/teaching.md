@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-### Bayero University Kano (2025 --- Date)
+### UW-Stevens Point (2025 --- Date)
 - Foundations of Artificial Intelligence
 - Programming for AI and ML
 - Introduction to Computing and Programming
