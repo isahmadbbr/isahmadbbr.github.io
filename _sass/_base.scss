@@ -583,6 +583,21 @@ footer.sticky-bottom {
   }
 }
 
+// Section headers on the about page (news / latest posts / selected publications).
+// Keeps the theme's lowercase source text but renders it as small caps with a
+// theme-color rule, so it reads as a real section header rather than plain text.
+.post article h2 {
+  display: inline-block;
+  margin-top: 3rem;
+  margin-bottom: 1.25rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid var(--global-theme-color);
+  font-variant: small-caps;
+  font-weight: 700;
+  font-size: 1.4rem;
+  letter-spacing: 0.06em;
+}
+
 .post-list {
   margin: 0;
   margin-bottom: 40px;

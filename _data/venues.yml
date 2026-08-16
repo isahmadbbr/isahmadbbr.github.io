@@ -1,9 +1,40 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"TACL":
+  url: https://transacl.org/
+  color: "#0f766e"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ACL":
+  url: https://www.aclanthology.org/
+  color: "#2563eb"
 
-"Vision":
-  color: "#009f36"
+"NAACL":
+  url: https://naacl.org/
+  color: "#4f46e5"
+
+"EMNLP":
+  url: https://2024.emnlp.org/
+  color: "#be123c"
+
+"FAccT":
+  url: https://facctconference.org/
+  color: "#b45309"
+
+"ACII":
+  color: "#15803d"
+
+"SemEval":
+  url: https://semeval.github.io/
+  color: "#0891b2"
+
+"AfricaNLP":
+  url: https://africanlp-workshop.github.io/
+  color: "#a16207"
+
+"Workshop":
+  color: "#78716c"
+
+"Journal":
+  color: "#1e3a5f"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#94a3b8"
