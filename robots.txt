@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: isahmadbbr.github.io/sitemap.xml
+Sitemap: https://isahmadbbr.github.io/sitemap.xml
