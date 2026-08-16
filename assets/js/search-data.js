@@ -87,6 +87,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-joined-the-department-of-computing-and-new-media-technologies-uw-stevens-point-as-an-assistant-professor",
           title: 'I joined the Department of Computing and New Media Technologies, UW-Stevens Point as...',
           description: "",
+          section: "News",},{id: "news-our-polar-work-won-two-awards-at-acl-2026-the-best-paper-award-at-the-9th-workshop-on-event-extraction-and-understanding-and-the-best-paper-runner-up-award-for-the-polar-semeval-shared-task",
+          title: 'Our POLAR work won two awards at ACL 2026: the Best Paper Award...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
