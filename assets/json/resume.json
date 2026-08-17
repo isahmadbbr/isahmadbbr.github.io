@@ -1,169 +1,301 @@
 {
-  "basics": {
-    "name": "Ibrahim Said Ahmad",
-    "label": "Postdoctoral Research Scientist",
-    "image": "",
-    "email": "ibrahimsaidahmad@outlook.com",
-    "url": "https://isahmadbbr.github.io",
-    "summary": "I am an academic and a researcher with interest in NLP. I have a PhD and nearly ten years of work experience. I am a co-founder of HausaNLP and Arewa Data Science. My research specializes in natural language processing in low-resource settings, focusing on addressing data insufficiency in various NLP applications and solving complex problems with limited data. I aim to bring innovative, data-driven solutions to NLP challenges in a corporate environment.",
-    "location": {
-      "address": "100 Fore St",
-      "postalCode": "ME 04103",
-      "city": "Portland",
-      "countryCode": "US",
-      "region": "Maine"
+    "basics": {
+        "name": "Ibrahim Said Ahmad",
+        "label": "Assistant Professor, University of Wisconsin-Stevens Point",
+        "image": "",
+        "email": "ibrahimsaidahmad@outlook.com",
+        "url": "https://isahmadbbr.github.io",
+        "summary": "Computer scientist and NLP researcher specializing in natural language processing for low-resource languages, computational social science, and cross-cultural AI. Co-founder of HausaNLP and Arewa Data Science, with 10+ years of experience in teaching, research, and interdisciplinary collaboration across Africa, Asia, Europe, and the Americas. Published 40+ peer-reviewed papers, several recognized with best paper and best resource paper awards, and secured over $800,000 in competitive research grants.",
+        "location": {
+            "address": "2100 Main St",
+            "postalCode": "WI 54481",
+            "city": "Stevens Point",
+            "countryCode": "US",
+            "region": "Wisconsin"
+        },
+        "profiles": [
+            {
+                "network": "GitHub",
+                "username": "isahmadbbr",
+                "url": "https://github.com/isahmadbbr"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "isahmadbbr",
+                "url": "https://linkedin.com/in/isahmadbbr"
+            },
+            {
+                "network": "Google Scholar",
+                "username": "Ibrahim Said Ahmad",
+                "url": "https://scholar.google.com/citations?user=QA4Aib4AAAAJ&hl"
+            },
+            {
+                "network": "X",
+                "username": "isabone",
+                "url": "https://twitter.com/isabone"
+            }
+        ]
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "isabone",
-        "url": "https://twitter.com/isabone"
-      }
+    "work": [
+        {
+            "name": "University of Wisconsin-Stevens Point",
+            "position": "Assistant Professor, Department of Computing and New Media Technologies",
+            "url": "https://www.uwsp.edu",
+            "location": "Stevens Point, WI, USA",
+            "startDate": "2025-08-25",
+            "endDate": "",
+            "summary": "Teaching, mentoring, and research in emotion-aware, culturally-informed AI.",
+            "highlights": [
+                "Co-leading WARAKA, an open annotation platform and playbook for African-language datasets, as Co-PI on the Masakhane African Languages Hub grant.",
+                "Co-developed POLAR, a 23,000+ instance benchmark for multilingual, multicultural online polarization detection, and co-organized the SemEval-2026 shared task built on it.",
+                "Contributed to PLACES, a participatory red-teaming study and dataset for text-to-image safety in the Global South, published at FAccT 2026."
+            ]
+        },
+        {
+            "name": "Northeastern University",
+            "position": "Postdoctoral Research Fellow, Institute for Experiential AI",
+            "url": "https://www.northeastern.edu",
+            "location": "Portland, ME, USA",
+            "startDate": "2023-07-05",
+            "endDate": "2025-07-04",
+            "summary": "Research at the intersection of NLP and computational social science, focused on low-resource languages and cross-cultural AI.",
+            "highlights": [
+                "Co-developed BRIGHTER, a human-annotated emotion dataset for 28 languages (18 African); published at ACL 2025 (Best Resource Paper Award) with a companion SemEval 2025 shared task (Best Task Paper Award).",
+                "Developed AfriHate, the first labelled hate speech dataset for 18 African languages from 6 countries.",
+                "Studied cross-cultural emotion representation in LLMs; published at ACII 2024 (Best Paper Award)."
+            ]
+        },
+        {
+            "name": "Bayero University Kano",
+            "position": "Senior Lecturer (U.S. equiv. Assistant Professor)",
+            "url": "",
+            "location": "Kano, Nigeria",
+            "startDate": "2020-01-01",
+            "endDate": "2023-01-01",
+            "summary": "Taught and researched AI, machine learning, and database systems; mentored graduate students.",
+            "highlights": [
+                "Developed NaijaSenti, the first large-scale annotated Twitter sentiment corpus for the four main Nigerian languages.",
+                "Built and annotated a Twitter dataset on COVID-19 vaccination sentiment in Nigerian cyberspace."
+            ]
+        },
+        {
+            "name": "Bayero University Kano",
+            "position": "Assistant Lecturer",
+            "url": "",
+            "location": "Kano, Nigeria",
+            "startDate": "2014-01-01",
+            "endDate": "2016-01-01",
+            "summary": "Promoted to Lecturer II in 2017 while on PhD study fellowship.",
+            "highlights": []
+        }
+    ],
+    "education": [
+        {
+            "institution": "Universiti Kebangsaan Malaysia",
+            "location": "Malaysia",
+            "degree": "PhD in Computer Science",
+            "url": "https://www.ukm.my",
+            "area": "Dissertation: Purchase Intention Mining Approach for Movie Revenue Prediction",
+            "studyType": "PhD",
+            "startDate": "2016-03-01",
+            "endDate": "2020-04-20"
+        },
+        {
+            "institution": "The University of Nottingham",
+            "location": "Malaysia",
+            "degree": "MSc in Information Technology",
+            "url": "https://www.nottingham.edu.my",
+            "area": "Dissertation: Engaging Children with ADHD using Mobile Games",
+            "studyType": "MSc",
+            "startDate": "2013-01-01",
+            "endDate": "2015-01-01"
+        },
+        {
+            "institution": "Bayero University Kano",
+            "location": "Nigeria",
+            "degree": "BSc in Computer Science",
+            "url": "",
+            "area": "",
+            "studyType": "BSc",
+            "startDate": "2006-01-01",
+            "endDate": "2012-01-01"
+        }
+    ],
+    "awards": [
+        {
+            "title": "Best Paper Award",
+            "date": "2026-07-07",
+            "awarder": "9th Workshop on Event Extraction and Understanding, ACL 2026",
+            "url": "",
+            "summary": "POLAR: Detecting Multilingual, Multicultural and Multievent Online Polarization."
+        },
+        {
+            "title": "Best Paper Runner-Up Award",
+            "date": "2026-07-07",
+            "awarder": "SemEval 2026",
+            "url": "",
+            "summary": "POLAR SemEval Shared Task."
+        },
+        {
+            "title": "Best Resource Paper Award",
+            "date": "2025-07-30",
+            "awarder": "ACL 2025",
+            "url": "https://aclanthology.org/2025.acl-long.436/",
+            "summary": "BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages."
+        },
+        {
+            "title": "Best Task Paper Award",
+            "date": "2025-07-30",
+            "awarder": "SemEval 2025",
+            "url": "",
+            "summary": "SemEval 2025 Task 11: Bridging the Gap in Text-Based Emotion Detection."
+        },
+        {
+            "title": "Best Paper Award",
+            "date": "2024-10-18",
+            "awarder": "12th International Conference on Affective Computing and Intelligent Interaction (ACII 2024)",
+            "url": "https://doi.org/10.1109/ACII63134.2024",
+            "summary": "Analyzing Cultural Representations of Emotions in LLMs Through Mixed Emotion Survey."
+        },
+        {
+            "title": "Best Paper Honorable Mention",
+            "date": "2024-01-01",
+            "awarder": "SemEval 2024",
+            "url": "",
+            "summary": "For organizers of an individual shared task."
+        },
+        {
+            "title": "Best Paper Award",
+            "date": "2023-01-01",
+            "awarder": "AfricaNLP Workshop 2023, Kigali, Rwanda",
+            "url": "",
+            "summary": ""
+        },
+        {
+            "title": "International List of AI Solutions for Reaching the 17 SDGs",
+            "date": "2023-01-01",
+            "awarder": "IRCAI Global Top 100 List",
+            "url": "",
+            "summary": ""
+        }
+    ],
+    "publications": [
+        {
+            "name": "Beyond Majority Voting: Agreement-Based Clustering to Model Annotator Perspectives in Subjective NLP Tasks",
+            "publisher": "Transactions of the Association for Computational Linguistics",
+            "releaseDate": "2026",
+            "url": "",
+            "summary": "Agreement-based clustering approach for modeling annotator perspectives across 40 datasets in 18 languages, evaluated on sentiment, emotion, and hate speech tasks."
+        },
+        {
+            "name": "Going PLACES: Participatory Localized Red Teaming for Text-to-Image Safety in the Global South",
+            "publisher": "Proceedings of the 2026 ACM Conference on Fairness, Accountability, and Transparency (FAccT '26)",
+            "releaseDate": "2026",
+            "url": "",
+            "summary": "Community-centered red-teaming study of text-to-image model safety across Ghana, Nigeria, and India, producing a dataset of 26,000+ examples of model failures."
+        },
+        {
+            "name": "POLAR: A Benchmark for Multilingual, Multicultural, and Multi-Event Online Polarization",
+            "publisher": "Findings of the Association for Computational Linguistics: ACL 2026",
+            "releaseDate": "2026",
+            "url": "https://arxiv.org/abs/2505.20624",
+            "summary": "A benchmark of 23,000+ instances spanning 22 languages for detecting political, racial, religious, and gender-based polarization in online text."
+        },
+        {
+            "name": "BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages",
+            "publisher": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics",
+            "releaseDate": "2025",
+            "url": "https://aclanthology.org/2025.acl-long.436/",
+            "summary": "A large, high-quality human-annotated emotion dataset for 28 languages (18 African). Best Resource Paper Award."
+        },
+        {
+            "name": "AfriHate: A Multilingual Collection of Hate Speech and Abusive Language Datasets for African Languages",
+            "publisher": "Proceedings of NAACL 2025",
+            "releaseDate": "2025",
+            "url": "https://aclanthology.org/2025.naacl-long.92/",
+            "summary": "The first labelled hate speech dataset for 18 African languages from 6 countries, with baseline benchmarks."
+        },
+        {
+            "name": "No Culture Left Behind: ArtELingo-28, a Benchmark of WikiArt with Captions in 28 Languages",
+            "publisher": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+            "releaseDate": "2024",
+            "url": "https://aclanthology.org/2024.emnlp-main.1165/",
+            "summary": "200K emotion labels and affective captions in 25 languages on 2,000 images, benchmarking Vision-Language models for cross-lingual emotion transfer."
+        },
+        {
+            "name": "Analyzing Cultural Representations of Emotions in LLMs Through Mixed Emotion Survey",
+            "publisher": "2024 12th International Conference on Affective Computing and Intelligent Interaction (ACII)",
+            "releaseDate": "2024",
+            "url": "",
+            "summary": "Studied emotion representations of Western and East Asian cultures across five LLMs against a prior human study. Best Paper Award."
+        },
+        {
+            "name": "Movie Revenue Prediction Based on Purchase Intention Mining Using YouTube Trailer Reviews",
+            "publisher": "Information Processing & Management",
+            "releaseDate": "2020",
+            "url": "",
+            "summary": "PhD dissertation research: box-office revenue prediction using a purchase intention lexicon mined from movie trailer reviews."
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Fluent",
+            "icon": ""
+        },
+        {
+            "language": "Hausa",
+            "fluency": "Fluent",
+            "icon": ""
+        },
+        {
+            "language": "Malay",
+            "fluency": "Working proficiency",
+            "icon": ""
+        },
+        {
+            "language": "Arabic",
+            "fluency": "Working proficiency",
+            "icon": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "Natural Language Processing",
+            "level": "",
+            "keywords": [
+                "Low-resource language processing",
+                "Sentiment analysis",
+                "Hate speech detection",
+                "Emotion analysis"
+            ]
+        },
+        {
+            "name": "Machine Learning",
+            "level": "",
+            "keywords": [
+                "Deep learning",
+                "Transfer learning",
+                "Predictive modeling",
+                "Large language models"
+            ]
+        },
+        {
+            "name": "Programming & Tools",
+            "level": "",
+            "keywords": [
+                "Python, PyTorch, TensorFlow, Pandas, NumPy",
+                "Git, Google Cloud, Jupyter Notebooks, Hugging Face Transformers"
+            ]
+        },
+        {
+            "name": "Research & Academic",
+            "level": "",
+            "keywords": [
+                "Experimental design and implementation",
+                "Grant writing and management",
+                "Cross-cultural collaborative research"
+            ]
+        }
     ]
-  },
-  "work": [
-    {
-      "name": "Northeastern University",
-      "position": "Postdoctoral Research Scientist",
-      "url": "https://www.northeastern.edu",
-      "startDate": "2025-07-05",
-      "endDate": "",
-      "summary": "Research on NLP for low-resource languages, focusing on Hausa and other African languages. Collaborating with a team of researchers to develop innovative solutions for NLP challenges.",
-      "highlights": [
-        "Developed a novel datasets for hate speech detection and emotion analysis.",
-        "Published multiple papers in top-tier NLP conferences and journals.",
-        "Developed multiple funding proposals for research projects."
-      ]
-  
-    }
-  ],
-  "education": [
-    {
-      "institution": "Universiti Kebangsaan Malaysia",
-      "location": "Malaysia",
-      "degree": "PhD in Computer Science",
-      "url": "https://www.ukm.my",
-      "area": "Natural Language Processing",
-      "studyType": "PhD",
-      "startDate": "2016-03-01",
-      "endDate": "2020-04-20"
-
-    }
-  ],
-  "awards": [
-    {
-      "title": "Best Paper Award",
-      "date": "2024-10-18",
-      "awarder": "International Conference on Affective Computing and Intelligent Interaction (ACII 2025)",
-      "url": "",
-      "summary": "The paper titled: Analyzing Cultural Representations of Emotions in LLMs through Mixed Emotion Survey selected as best paper in ACII 2025 conference held at Glasgow, UK."
-    }
-  ],
-  
-  "publications": [
-      {
-        "name": "Findings of the IWSLT 2024 Evaluation Campaign",
-        "publisher": "Proceedings of the 21st International Conference on Spoken Language Translation (IWSLT 2024)",
-        "releaseDate": "2024",
-        "url": "https://aclanthology.org/2024.iwslt-1.1.pdf",
-        "summary": "This paper reports on shared tasks addressing seven scientific challenges in spoken language translation, attracting 18 teams with 26 system papers and showing growing interest in the field across industry and academia."
-      },
-      {
-        "name": "Are generative language models multicultural? A study on Hausa culture and emotions using ChatGPT",
-        "publisher": "Proceedings of the 2nd Workshop on Cross-Cultural Considerations in NLP",
-        "releaseDate": "2024",
-        "url": "https://aclanthology.org/2024.c3nlp-1.8",
-        "summary": "An analysis of how generative language models handle multicultural contexts, specifically examining Hausa culture and emotions through ChatGPT."
-      },
-      {
-        "name": "No Culture Left Behind: ArtELingo-28, a Benchmark of WikiArt with Captions in 28 Languages",
-        "publisher": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
-        "releaseDate": "2024",
-        "url": "",
-        "summary": "Introduces ArtELingo-28, a benchmark dataset of WikiArt with captions translated into 28 languages to support multilingual art description research."
-      },
-      {
-        "name": "Analyzing Cultural Representations of Emotions in LLMs through Mixed Emotion Survey",
-        "publisher": "Proceedings of the 12th International Conference on Affective Computing and Intelligent Interaction (ACII)",
-        "releaseDate": "2024",
-        "url": "",
-        "summary": "A study examining how large language models represent emotions across different cultures through a mixed emotion survey methodology."
-      },
-      {
-        "name": "Analyzing COVID-19 Vaccination Sentiments in Nigerian Cyberspace: Insights from a Manually Annotated Twitter Dataset",
-        "publisher": "arXiv preprint",
-        "releaseDate": "2024",
-        "url": "https://arxiv.org/abs/2401.13133",
-        "summary": "Analysis of public sentiment regarding COVID-19 vaccination in Nigeria using a manually annotated Twitter dataset."
-      },
-      {
-        "name": "Impact of social media posts' characteristics on movie performance prior to release: an explainable machine learning approach",
-        "publisher": "Electronic Commerce Research",
-        "releaseDate": "2024",
-        "url": "",
-        "summary": "Explores how characteristics of social media posts about movies before their release correlate with movie performance using explainable machine learning methods."
-      },
-      {
-        "name": "HausaHate: An Expert Annotated Corpus for Hausa Hate Speech Detection",
-        "publisher": "Proceedings of the 8th Workshop on Online Abuse and Harms (WOAH 2024)",
-        "releaseDate": "2024",
-        "url": "",
-        "summary": "Presents a corpus of Hausa language text annotated by experts for hate speech detection."
-      },
-      {
-        "name": "SemRel2024: A Collection of Semantic Textual Relatedness Datasets for 13 Languages",
-        "publisher": "Findings of the Association for Computational Linguistics: ACL 2024",
-        "releaseDate": "2024",
-        "url": "",
-        "summary": "Introduces a collection of semantic textual relatedness datasets covering 13 different languages."
-      },
-      {
-        "name": "NaijaSenti: A Nigerian Twitter Sentiment Corpus for Multilingual Sentiment Analysis",
-        "publisher": "Proceedings of the Thirteenth Language Resources and Evaluation Conference",
-        "releaseDate": "2022",
-        "url": "",
-        "summary": "Presents a corpus of Nigerian Twitter data for multilingual sentiment analysis."
-      },
-      {
-        "name": "Movie revenue prediction based on purchase intention mining using YouTube trailer reviews",
-        "publisher": "Information Processing & Management",
-        "releaseDate": "2020",
-        "url": "",
-        "summary": "A method for predicting movie revenues by analyzing purchase intention from YouTube trailer reviews."
-      },
-      {
-        "name": "A survey on machine learning techniques in movie revenue prediction",
-        "publisher": "SN Computer Science",
-        "releaseDate": "2020",
-        "url": "",
-        "summary": "A comprehensive overview of machine learning approaches used in predicting movie revenue."
-      },
-      {
-        "name": "Beyond sentiment classification: A novel approach for utilizing social media data for business intelligence",
-        "publisher": "International Journal of Advanced Computer Science and Applications",
-        "releaseDate": "2020",
-        "url": "",
-        "summary": "Presents a novel approach that goes beyond traditional sentiment classification to extract business intelligence from social media data."
-      },
-      {
-        "name": "A hybrid metaheuristic method in training artificial neural network for bankruptcy prediction",
-        "publisher": "IEEE Access",
-        "releaseDate": "2020",
-        "url": "",
-        "summary": "Proposes a hybrid metaheuristic approach for training artificial neural networks specifically for bankruptcy prediction applications."
-      }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "Hausa",
-      "fluency": "Native speaker",
-      "icon": ""
-    }
-  ]
-  
 }
