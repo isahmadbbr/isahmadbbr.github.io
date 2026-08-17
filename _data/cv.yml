@@ -2,96 +2,281 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Ibrahim Said Ahmad, PhD
+    - name: Position
+      value: Assistant Professor, University of Wisconsin-Stevens Point
+    - name: Email
+      value: ibrahimsaidahmad@outlook.com
+    - name: Location
+      value: Stevens Point, WI, USA
     - name: Languages
-      value: English, German
+      value: English, Hausa (fluent); Malay, Arabic (working proficiency)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD, Computer Science
+      institution: Universiti Kebangsaan Malaysia, Malaysia
+      year: 2016 - 2020
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Dissertation: Purchase Intention Mining Approach for Movie Revenue Prediction."
+    - title: MSc, Information Technology
+      institution: The University of Nottingham, Malaysia
+      year: 2013 - 2015
       description:
-        - Description 1.
-        - Description 2.
+        - "Dissertation: Engaging Children with ADHD using Mobile Games."
+    - title: BSc, Computer Science
+      institution: Bayero University Kano, Nigeria
+      year: 2006 - 2012
 
-- title: Experience
+- title: Work Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Assistant Professor, Department of Computing and New Media Technologies
+      institution: University of Wisconsin-Stevens Point, United States
+      year: Aug 2025 - Present
+    - title: Postdoctoral Research Fellow, Institute for Experiential AI
+      institution: Northeastern University, United States
+      year: Jul 2023 - Jul 2025
+    - title: Senior Lecturer (U.S. equiv. Assistant Professor)
+      institution: Bayero University Kano, Nigeria
+      year: 2020 - 2023
+    - title: Assistant Lecturer
+      institution: Bayero University Kano, Nigeria
+      year: 2014 - 2016
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - Promoted to Lecturer II in 2017 while on PhD study fellowship.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Research Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Open Data Collection Playbook & Platform (Waraka)
+      institution: Co-PI, Masakhane African Languages Hub Grant
+      year: 2025 - Present
+      description:
+        - Co-leading a 15-month project building WARAKA, an open community handbook and annotation platform for collecting, annotating, and releasing text, speech, and vision datasets for African languages, with Masakhane, EthioNLP, and HausaNLP.
+    - title: "POLAR: Multilingual, Multicultural, and Multi-Event Online Polarization Detection"
+      institution: University of Wisconsin-Stevens Point
+      year: 2025 - 2026
+      description:
+        - Co-developed a benchmark of 23,000+ instances across 22 languages for detecting polarization in online text, and co-organized the SemEval-2026 shared task built on it.
+    - title: Modeling Annotator Disagreement in Subjective NLP Tasks
+      institution: University of Wisconsin-Stevens Point
+      year: 2025 - 2026
+      description:
+        - Agreement-based clustering approach for modeling annotator perspectives across 40 datasets in 18 languages, evaluated on sentiment, emotion, and hate speech tasks. Published in TACL (2026).
+    - title: "Going PLACES: Participatory Localized Red Teaming for Text-to-Image Safety"
+      institution: University of Wisconsin-Stevens Point
+      year: 2024 - 2026
+      description:
+        - Community-centered red-teaming study of text-to-image model safety across Ghana, Nigeria, and India, producing a dataset of 26,000+ examples of model failures. Published at FAccT 2026.
+    - title: "BRIGHTER: Bridging the Gap in Text-Based Emotion Detection"
+      institution: Postdoctoral Research Fellow, Northeastern University
+      year: Sep 2023 - 2025
+      description:
+        - Co-developed a human-annotated emotion dataset for 28 languages (18 African). Published at ACL 2025 (Best Resource Paper Award); organized the companion SemEval 2025 Task 11 (Best Task Paper Award).
+    - title: Cultural Representations of Emotions in LLMs Through Mixed Emotion Survey
+      institution: Postdoctoral Research Fellow, Northeastern University
+      year: Sep 2023 - 2025
+      description:
+        - Studied emotion representations of Western and East Asian cultures across five LLMs against a prior human study. Published at ACII 2024 (Best Paper Award).
+    - title: Exploring Cross-Cultural Alignment in LLMs Responses
+      institution: Postdoctoral Research Fellow, Northeastern University
+      year: Sep 2023 - Jun 2024
+      description:
+        - Investigated cultural and emotional alignment of ChatGPT responses with native Hausa speakers using 37 culturally validated prompts.
+    - title: "AfriHate: A Multilingual Hate and Offensive Corpus for Africa"
+      institution: Postdoctoral Research Fellow, Northeastern University
+      year: Sep 2023 - 2024
+      description:
+        - Developed the first labelled hate speech dataset for 18 African languages from 6 countries, with baseline benchmarks across SOTA LLMs.
+    - title: "ArtELingo-28: A Benchmark of WikiArt with Captions in 28 Languages"
+      institution: Postdoctoral Research Fellow, Northeastern University
+      year: Jul 2023 - 2025
+      description:
+        - Collected 200K emotion labels and affective captions in 25 languages on 2,000 images, benchmarking Vision-Language models for cross-lingual, cross-cultural emotion transfer.
+    - title: Analyzing COVID-19 Vaccination Sentiments in Nigerian Cyberspace
+      institution: Senior Lecturer, Bayero University Kano
+      year: Aug 2021 - Dec 2022
+      description:
+        - Built and annotated a Twitter dataset on COVID-19 vaccination sentiment, benchmarking classical ML and fine-tuned LLMs (BERT, Afro-XLM-R, XLM-RoBERTa).
+    - title: "NaijaSenti: A Nigerian Twitter Sentiment Corpus"
+      institution: Senior Lecturer, Bayero University Kano
+      year: Dec 2020 - Jul 2022
+      description:
+        - Developed the first large-scale, manually annotated Twitter sentiment dataset and lexicon for the four main Nigerian languages.
+    - title: Purchase Intention Mining Approach for Movie Revenue Prediction
+      institution: Doctoral Researcher, Universiti Kebangsaan Malaysia
+      year: Mar 2016 - Apr 2020
+      description:
+        - "PhD dissertation research: box-office revenue prediction corpus and purchase intention lexicon from movie trailer reviews, evaluated against MLR, SVM, MLP, and RF models."
+
+- title: Grants
+  type: time_table
+  contents:
+    - title: "Co-PI, Masakhane African Languages Hub — Open Data Collection Playbook & Platform"
+      year: 2025
+    - title: PI, Google Research exploreCSR award
+      year: 2023
+    - title: PI, Google Research TensorFlow award
+      year: 2023
+    - title: CO-PI, Artificial Intelligence for Education Innovation Research Network in Africa
+      year: 2022
+    - title: CO-PI, Oracle OCI Award
+      year: 2022
+    - title: CO-PI, Lacuna Fund for Labeled Datasets for Language for Sub-Saharan Africa
+      year: 2022
+    - title: PI, Google Research exploreCSR award
+      year: 2022
+    - title: PI, TensorFlow award
+      year: 2022
+    - title: CO-PI, Lacuna Fund Grant for SemEval Shared Task
+      year: 2021
+    - title: CO-PI, Lacuna Fund for Labeled Datasets for Language for Sub-Saharan Africa
+      year: 2020
+    - title: CO-PI, Google Covid-19 Research Grant
+      year: 2020
+    - title: CO-PI, TETFUND NRF Research Grant
+      year: 2020
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2026
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - "Best Paper Award, POLAR: Detecting Multilingual, Multicultural and Multievent Online Polarization — 9th Workshop on Event Extraction and Understanding, ACL 2026"
+        - Best Paper Runner-Up Award, POLAR SemEval Shared Task — SemEval 2026
+    - year: 2025
       items:
-        - Max Planck Medal
+        - "Best Resource Paper Award, BRIGHTER — ACL 2025"
+        - "Best Task Paper Award, SemEval 2025 Task 11: Bridging the Gap in Text-Based Emotion Detection"
+    - year: 2024
+      items:
+        - Best Paper Award, Analyzing Cultural Representations of Emotions in LLMs Through Mixed Emotion Survey — ACII 2024
+        - Best Paper Honorable Mention, SemEval 2024 (organizers of an individual shared task)
+    - year: 2023
+      items:
+        - Best Paper Award, AfricaNLP Workshop 2023, Kigali, Rwanda
+        - International List of AI Solutions for Reaching the 17 SDGs — IRCAI Global Top 100 List
 
-- title: Academic Interests
+- title: Teaching
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: University of Wisconsin-Stevens Point
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Fundamentals of Artificial Intelligence (Undergraduate, 2025 - present)
+        - Introduction to Computing and Programming (Undergraduate, 2025 - present)
+        - Programming for AI and ML (Undergraduate, 2026 - present)
+        - Neural Network and Deep Learning (Undergraduate, 2026 - present)
+    - title: Bayero University Kano
       items:
-        - Description 1.
-        - Description 2.
+        - Artificial Intelligence (Graduate, 2022 & 2023)
+        - Database Systems (Undergraduate, 2021 & 2022)
+        - Introduction to Probability (Undergraduate, 2015)
+        - Multimedia Techniques (Undergraduate, 2015)
 
-- title: Other Interests
+- title: Student Supervision
+  type: time_table
+  contents:
+    - title: "Boryanka Todorova Mashi — An Improved LightGBM Algorithm Using Bayesian Optimization for Prediction of Vulnerability Exploitation"
+      institution: MS Computer Science
+      year: 2022 - 2023
+    - title: "Amina Yusuf Umar — Fake News Detection Based on a Hybrid CNN-GRU Deep Learning Model"
+      institution: MS Computer Science
+      year: 2022 - 2023
+    - title: "Khadija Halliru Muhammad — Predicting Individuals' Awareness Towards COVID-19 Precautionary Measures Using Hausa Tweets"
+      institution: MS Computer Science
+      year: 2023 - 2024
+    - title: "Abdulkadir Shehu Bichi — Lexical-Sentiment Based Model for Detection of Fake News"
+      institution: MS Computer Science
+      year: 2024 - 2025
+    - title: "Aisha Mustapha Ahmad — Transformer-Based Purchase Intention Mining: A Comparative Study Using a Novel Dataset"
+      institution: MS Computer Science
+      year: 2024 - 2025
+    - title: "Nur Bala Rabiu — Extractive Text Summarization Model for a Low Resource Language"
+      institution: MS Computer Science
+      year: 2024 - 2025
+    - title: "Fa'iz Ibrahim Jibia — Prediction of Unemployment Rates with Hybrid Time Series and Machine Learning Techniques in Nigeria"
+      institution: MS Computer Science
+      year: 2024 - 2025
+
+- title: Publications
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - 40+ peer-reviewed publications, including 10+ as first author. See the full list on the <a href="/publications/">Publications page</a> or <a href="https://scholar.google.com/citations?user=QA4Aib4AAAAJ">Google Scholar</a>.
+
+- title: Presentations
+  type: time_table
+  contents:
+    - title: How to Prepare for a Proposal Defense
+      institution: Postgraduate seminar series, Faculty of Computer Science and IT, Bayero University Kano
+      year: Jan 2021
+    - title: Significant Tips for a New Researcher
+      institution: Webinar for new postgraduate students
+      year: Jan 2021
+    - title: Predicting Movie Success from Trailer Reviews
+      institution: 1st International Postgraduate Conference, Nilai, Malaysia
+      year: 2018
+    - title: "Sentiment Analysis: Algorithms and Applications"
+      institution: Seminar, Faculty of Computer Science and IT, Bayero University Kano
+      year: Jan 2017
+    - title: Engaging Children with ADHD Using Mobile Based Games
+      institution: Seminar, Faculty of Computer Science and IT, Bayero University Kano
+      year: Nov 2015
+
+- title: Outreach & Community Engagement
+  type: time_table
+  contents:
+    - title: "Co-Organizer, Data, Culture, and Community: An Interactive Exhibition of the AfricaNLP Playbook and Annotation Tool"
+      institution: Deep Learning Indaba 2026, Lagos, Nigeria
+      year: 2026
+    - title: "Organizer, SemEval 2026 Task 9: Detecting Multilingual, Multicultural and Multievent Online Polarization (POLAR)"
+      year: 2026
+    - title: "Organizer, SemEval 2025 Task 11: Bridging the Gap in Text-Based Emotion Detection"
+      year: 2024
+    - title: Organizer, IWSLT Low-Resource Track Shared Task
+      year: 2024
+    - title: "Organizer, SemEval-2023 Task 12: Sentiment Analysis for African Languages (AfriSenti-SemEval)"
+      year: 2023
+
+- title: Professional Memberships
+  type: list
+  contents:
+    - "Member, Internet Society (ISOC) — 2020 to present"
+    - "Member, World Institute for Nuclear Security (WINS) — 2020 to present"
+
+- title: Peer Review
+  type: list
+  contents:
+    - Reviewer for Information Processing & Management (Elsevier), Neural Computing and Applications (Springer Nature), SN Computer Science (Springer Nature), and IEEE Access. Program Committee, 31st International Conference on Computational Linguistics (COLING 2025). Contributed to ACL and LREC.
+
+- title: Research Interests
+  type: list
+  contents:
+    - Natural Language Processing and Computational Social Science
+    - Cross-cultural collaborative research in NLP
+    - Ethical AI and bias mitigation in multilingual NLP
+    - Predictive modeling for business applications
+    - Democratization of data science and machine learning
+
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Technical
+      items:
+        - "NLP: low-resource language processing, sentiment analysis, hate speech detection, emotion analysis"
+        - "Machine Learning: deep learning, transfer learning, predictive modeling"
+        - "LLMs: development, fine-tuning, and adaptation for low-resource languages"
+        - "Programming: Python, PyTorch, TensorFlow, Pandas, NumPy, Matplotlib"
+        - "Tools: Git, Google Cloud, Jupyter Notebooks, Hugging Face Transformers"
+    - title: Research & Academic
+      items:
+        - Experimental design and implementation
+        - Academic writing and publication
+        - Grant writing and management
+        - Cross-cultural collaborative research
+    - title: Ethical AI & Responsible Development
+      items:
+        - Bias detection and mitigation in multilingual NLP
+        - Ethical framework development for AI applications
+        - Fairness and accountability in machine learning models

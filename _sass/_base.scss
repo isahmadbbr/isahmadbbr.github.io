@@ -754,7 +754,11 @@ footer.sticky-bottom {
           display: inline-block;
           background-color: var(--global-theme-color);
           margin-bottom: 0.5rem;
-          color: var(--global-card-bg-color) !important;
+          // Fixed white, not theme-dependent: badge backgrounds (venues.yml colors)
+          // are chosen for contrast against white text specifically, and
+          // --global-card-bg-color turns near-black in dark mode, which made
+          // badge text unreadable (dark text on a dark/saturated badge).
+          color: white !important;
 
           a {
             color: white;
