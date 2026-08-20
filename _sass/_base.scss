@@ -767,6 +767,18 @@ footer.sticky-bottom {
               text-decoration: none;
             }
           }
+
+          // Venues with no `url` in _data/venues.yml render as a bare <div>
+          // (bib.liquid), not an <a>. The top-of-file blanket rule
+          // `div { color: var(--global-text-color) }` is a direct declaration
+          // on that div, which wins over the parent abbr's inherited color no
+          // matter how important/specific the parent's own rule is -- a
+          // directly-set property always beats inheritance. That's what was
+          // still showing near-black text on badges like journal abbreviations
+          // even after the abbr-level fix.
+          div {
+            color: white !important;
+          }
         }
 
         .award {
