@@ -240,10 +240,16 @@ ul.task-list input[type="checkbox"] {
 // text) does NOT shrink to avoid a float; it just spans full width and sits
 // underneath/behind it. Un-float and stack on narrow screens instead of
 // trying to squeeze both side by side.
+//
+// !important is required here: "float-right"/"float-left" are also literal
+// Bootstrap utility classes (from the separately-loaded bootstrap.min.css,
+// which the CSS purge step doesn't touch), defined as `float: right/left
+// !important`. Without matching !important, Bootstrap's rule always wins
+// over this one regardless of specificity or source order.
 @media (max-width: 575.98px) {
   .profile.float-right,
   .profile.float-left {
-    float: none;
+    float: none !important;
     margin-left: 0;
     margin-right: 0;
     margin-bottom: 1.5rem;
