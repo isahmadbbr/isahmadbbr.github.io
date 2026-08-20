@@ -43,7 +43,12 @@ module Jekyll
     end
 
     def bust_css_cache(file_name)
-      CacheDigester.new(file_name: file_name, directory: 'assets/_sass').digest!
+      # NOTE: the actual Sass source lives in `_sass/` at the repo root, not
+      # `assets/_sass/` (which doesn't exist). With the wrong path, Dir[] found
+      # nothing, file_contents was always "", and every build produced the
+      # same MD5("") query string -- so browsers/CDNs that had ever cached
+      # main.css kept serving it forever, no matter how much the CSS changed.
+      CacheDigester.new(file_name: file_name, directory: '_sass').digest!
     end
   end
 end
