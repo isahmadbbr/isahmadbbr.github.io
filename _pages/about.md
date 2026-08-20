@@ -27,7 +27,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-
+<div class="hero-links">
+  <a class="hero-btn primary" href="{{ '/cv/' | relative_url }}"><i class="fa-solid fa-file-lines"></i> CV</a>
+  <a class="hero-btn" href="https://scholar.google.com/citations?user=QA4Aib4AAAAJ&hl" target="_blank" rel="noopener"><i class="ai ai-google-scholar"></i> Scholar</a>
+  <a class="hero-btn" href="https://github.com/isahmadbbr" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i> GitHub</a>
+  <a class="hero-btn" href="https://linkedin.com/in/isahmadbbr" target="_blank" rel="noopener"><i class="fa-brands fa-linkedin"></i> LinkedIn</a>
+  <a class="hero-btn" href="mailto:ibrahimsaidahmad@outlook.com"><i class="fa-solid fa-envelope"></i> Email</a>
+</div>
 
 I am an Assistant Professor in the Department of Computing and New Media Technologies at UW–Stevens Point. From 2023 to 2025, I was a Postdoctoral Research Fellow at Northeastern University’s Institute for Experiential AI, where I led research at the intersection of natural language processing (NLP) and computational social science. My work focused on addressing linguistic and cultural disparities in AI systems, particularly for low-resource languages. 
 

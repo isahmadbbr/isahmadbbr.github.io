@@ -227,6 +227,59 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// Framed profile photo + pill-button link row (CV / Scholar / GitHub / etc.),
+// matching the "hero" header treatment used by colleague sites on the same
+// theme -- not a stock al-folio component, built to match their look.
+.profile img {
+  border: 3px solid var(--global-theme-color);
+  padding: 4px;
+}
+
+.hero-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin: 1rem 0 1.5rem;
+}
+
+.hero-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.4rem 1rem;
+  border-radius: 999px;
+  border: 1.5px solid var(--global-theme-color);
+  color: var(--global-theme-color);
+  font-weight: 600;
+  font-size: 0.85rem;
+  line-height: 1.4;
+  text-decoration: none;
+  transition:
+    background-color 0.15s ease,
+    color 0.15s ease,
+    opacity 0.15s ease;
+
+  &:hover {
+    background-color: var(--global-theme-color);
+    color: #fff;
+    text-decoration: none;
+  }
+
+  &.primary {
+    background-color: var(--global-theme-color);
+    color: #fff;
+
+    &:hover {
+      opacity: 0.85;
+      color: #fff;
+    }
+  }
+
+  i {
+    font-size: 0.9em;
+  }
+}
+
 .post-description {
   margin-bottom: 2rem;
   font-size: 0.875rem;
