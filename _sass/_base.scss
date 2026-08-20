@@ -232,7 +232,22 @@ ul.task-list input[type="checkbox"] {
 // theme -- not a stock al-folio component, built to match their look.
 .profile img {
   border: 3px solid var(--global-theme-color);
-  padding: 4px;
+}
+
+// The profile photo is float-right/float-left at desktop widths (set via
+// about.md's profile.align), which text and inline content wrap around --
+// but .hero-links is `display: flex`, a block-level box that (unlike plain
+// text) does NOT shrink to avoid a float; it just spans full width and sits
+// underneath/behind it. Un-float and stack on narrow screens instead of
+// trying to squeeze both side by side.
+@media (max-width: 575.98px) {
+  .profile.float-right,
+  .profile.float-left {
+    float: none;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 1.5rem;
+  }
 }
 
 .hero-links {
